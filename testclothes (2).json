@@ -1,0 +1,73 @@
+{
+  "Shirts": {
+    "Shirt 1": {
+      "title": "vineyard",
+      "cost": 43.25,
+      "img_url": "https://www.vineyardvines.com/dw/image/v2/AAHW_PRD/on/demandware.static/-/Sites-vineyardvines-master/default/dwa4e78a9a/images/2018/1V1017_406_LD_B.jpg?sw=1184&sh=1410&sm=cut",
+      "desc": "In our world, vintage means 'been there, done that, can't wait to do it again!' This cotton men's long-sleeve t-shirt is so Old School comfortable, you'll always feel right at home in it."
+    },
+    "Shirt 2": {
+      "title": "Guys Logo Graphic Tee in White to Heather Black Ombre Size S from Hollister",
+      "cost": 24.95,
+      "img_url": "https://anf.scene7.com/is/image/anf/KIC_323-9042-2485-108_prod1?$product-hol-v1$&wid=800&hei=1000",
+      "desc": "A soft cotton tee in our signature curved hem silhouette with longer length. Featuring a crewneck and logo graphic print. Slim Fit."
+    },
+    "Shirt 3": {
+      "title": "Hardcore 80s Men's T-Shirt",
+      "cost": 23.56,
+      "img_url": "https://cdn.shopify.com/s/files/1/0537/4221/products/men-t-shirts-hardcore-80s-shirt-1_800x.jpg?v=1546564090",
+      "desc": "This hardcore t-shirt will tell you what the 80s was best known for! The year was 1981, death metal and thrash metal was not yet defined. There was only Slayer. Grab this Slayer t-shirt to show support!"
+    },
+    "Shirt 4": {
+      "title": "Kim Jong Trill Men's Cotton T-Shirt",
+      "cost": 32.45,
+      "img_url": "https://cdn.shopify.com/s/files/1/0537/4221/products/Kim-Jung-Trill---Cotton-T-Shirt-Mockup-Front_800x.jpg?v=1547053956",
+      "desc": "The Korean words in this Kim Jong Un shirt mean, the first shot of the strong and prosperous nation. Want to rock the streets on a hot Korean swag? This Kim Jong shirt is your best option."
+    },
+    "Shirt 5": {
+      "title": "SpaceX Launch Men's Cotton T-Shirt",
+      "cost": 16.25,
+      "img_url": "https://cdn.shopify.com/s/files/1/0537/4221/products/SpaceX-Launch-Cotton-Tee_800x.jpg?v=1551253356",
+      "desc": "Get in loser, we're going to Mars! Celebrate one of the most iconic companies of our generation and blast off with the SpaceX Launch shirt."
+    },
+    "Shirt 6": {
+      "title": "Deathboy Men's Cotton T-Shirt",
+      "cost": 12.15,
+      "img_url": "https://cdn.shopify.com/s/files/1/0537/4221/products/Aesthetic-Boy---Cotton-T-Shirt-Mockup-Front_8d1ed3f0-5dde-4823-be00-99ec417f929c_800x.jpg?v=1547053961",
+      "desc": "Bringing it back with the Shirtwascash Deathboy™, the Nintendo Gameboy shirt your mom would never let you have now available in all its all-over print glory."
+    },
+    "Shirt 7": {
+      "title": "Wreck-It Ralph and Friends T-Shirt for Adults",
+      "cost": 17.50,
+      "img_url": "https://lumiere-a.akamaihd.net/v1/images/file_117a4e9b.jpeg?width=1200&region=0%2C0%2C2000%2C2000&quality=8",
+      "desc": "Show your affinity for a retro Internet look in this Wreck-It Ralph tee featuring Ralph, Vanellope, KnowsMore, and several other characters from the wacky world of Ralph Breaks the Internet."
+    },
+    "Shirt 8": {
+      "title": "Dragon Ball Z Long Sleeve Tee",
+      "cost": 39.25,
+      "img_url": "https://s7d5.scene7.com/is/image/UrbanOutfitters/49318280_045_h?$xlarge$&hei=900&qlt=80&fit=constrain",
+      "desc": "Rep Goku and the gang in this Dragon Ball Z tee. Cotton is cut in a long sleeve silhouette with ribbing at cuffs + crew-neck, flat hem and graphics at chest and sleeves."
+    },
+    "Shirt 9": {
+      "title": "The Mountain Adult Unisex T-Shirt - Dog Is Love",
+      "cost": 25.68,
+      "img_url": "https://cdn11.bigcommerce.com/s-86394/images/stencil/1280x1280/products/11406/109771/10_4177_web__52087.1525268936.jpg?c=2&imbypass=on",
+      "desc": "Man's best friend needs you to buy this."
+    },
+    "Shirt 10": {
+      "title": "NASA Long Sleeve T-Shirt",
+      "cost": 35.65,
+      "img_url": "https://redcanoebrands.com/wp-content/uploads/2017/01/NASA-Long-Sleeve-T-shirt.jpg",
+      "desc": "Support us"
+    }
+    
+  },
+  "Pants": {
+    "Pants 1": {
+      "title": "Rue21 White Zipper Pocket Athletic Joggers",
+      "cost": 21.99,
+      "img_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvJLeFbskBWFYps28K2LTbs9clyvGBsZ-FfJHNRQFn1crKpIocSMeJWfQKejCxXDFmplp1qfhT15YTrDyc5yTmpdpuer8IPK3NPDRj3huCnoOL9dT3T9fB&usqp=CAE",
+      "desc": "A pair of white athletic joggers made of a soft knit with a fleece lining. They sport a drawstring waist, zippered front pockets, and an open back pocket with moto seams at the knees. The freedom to be you is rue!"
+    }
+  }
+}
